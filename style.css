@@ -1,0 +1,60 @@
+body{
+    margin:none;
+}
+.main{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+   
+}
+
+div span{
+    font-size: 15px;
+
+}
+div h3{
+    padding:0px 30px 0px 30px;
+}
+.images{
+    margin-left:50px;
+    padding:0px 40px 0px 40px;
+}
+div #mlr{
+font-size:27px;
+color:brown
+}
+div #one{
+    color:green;
+}
+div #two{
+    color:blue;
+}
+div #three {
+    color: maroon;
+}
+div #four {
+    color: red;
+}
+div img{
+    width:150px;
+    height:70px;
+
+}
+.headers{
+    display:flex;
+    
+    padding:20px;
+   
+    background-color:rgb(131, 5, 5);
+    
+}
+section a{
+    color:white;
+    font-size: 15px;
+    padding:0px 35px 0px 35px;
+}
+#mlritm{
+    height:520px;
+   
+        
+}
